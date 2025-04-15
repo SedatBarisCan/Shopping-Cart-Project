@@ -73,8 +73,8 @@ body {
   grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
   gap: 2rem;
   padding: 2rem;
-  margin-left: 30rem;
-  margin-right: 30rem;
+  margin-left: 22rem;
+  margin-right: 22rem;
 }
 
 .product-div {
